@@ -1,0 +1,17 @@
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\obj\Debug\Console_Calculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\obj\Debug\Console_Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Console_Calculator.Test.Unit.dll
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Console_Calculator.Test.Unit.pdb
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Console_Calculator.exe
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Console_Calculator.pdb
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Console_Calculator.exe.config
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\obj\Debug\Console_Calculator.Test.Unit.csproj.CopyComplete
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\obj\Debug\Console_Calculator.Test.Unit.dll
+C:\Users\chira\source\repos\Console_Calculator\Console_Calculator.Test.Unit\obj\Debug\Console_Calculator.Test.Unit.pdb
